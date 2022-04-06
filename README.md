@@ -1,4 +1,4 @@
-:::mermaid
+```mermaid
 classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
@@ -21,4 +21,4 @@ classDiagram
       +run()
     }
             
-:::
+```
