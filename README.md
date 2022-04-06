@@ -1,4 +1,7 @@
-##Flow chart
+mermaid doc:
+https://mermaid-js.github.io/mermaid/#/flowchart
+
+## Flow chart
 ```mermaid
 graph TD
     A[Start] 
@@ -29,7 +32,7 @@ graph TD
   
 ```
 
-##Class diagram
+## Class diagram
 ```mermaid
 classDiagram
     class MenuItemEnum{
